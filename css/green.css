@@ -1,0 +1,110 @@
+/*
+	Theme Name: Showcaser - Responsive Multipurpose Html Template
+	Theme URI: http://themeforest.net/user/responsiveexperts
+	Description: This css file is for Color layouts
+	Version: 1.0
+	Author: Responsive Experts
+	Author URI: http://themeforest.net/user/responsiveexperts
+	Tags:
+	
+	----------------------------------------
+	BLUE COLOR STYLES [ For Color Theme ]
+	----------------------------------------
+	
+	TABLE OF CONTENTS
+	---------------------------
+	 01. Global Content Styles
+     02. Header Area Styles
+	 03. Home Page Styles
+	 04. Inner Page Styles
+	 05. About Page Styles
+	 06. Services Page Styles
+	 07. Contact Page Styles
+*/
+
+
+/* ==================================================== */
+/* 01. Global Content Styles                            */
+/* ==================================================== */
+
+
+body {
+	background:#7dc24b;
+}
+
+h4 {
+	color:#7dc24b;
+}
+
+
+/* ==================================================== */
+/* 02. Header Area Styles                               */
+/* ==================================================== */
+
+.main-menu a:hover, .main-menu a.active {
+	color:#7dc24b;
+}
+
+/* ==================================================== */
+/* 03. Home Page Styles                                 */
+/* ==================================================== */
+
+.ps-container {
+	background: #7dc24b;
+}
+
+.ps-header {
+	background: #7dc24b;
+}
+
+.ps-content {
+	background: #7dc24b;
+}
+
+/* ==================================================== */
+/* 04. Inner Page Styles                                */
+/* ==================================================== */
+
+.inner-page {
+	background:rgba(125,194,75,0.9);
+}
+
+/* ==================================================== */
+/* 05. About Page Styles                                */
+/* ==================================================== */
+
+
+.statistics-main .icon-cont {
+	background:rgba(125,194,75,0.9);
+}
+.management-single h4 {
+	color:#7dc24b;
+}
+
+/* ==================================================== */
+/* 06. Services Page Styles                             */
+/* ==================================================== */
+
+.service-all .service-single i {
+	color:#7dc24b;
+}
+
+
+/* ==================================================== */
+/* 07. Contact Page Styles                              */
+/* ==================================================== */
+
+/* Error and Success Message Styles */
+
+.first-field.error, .second-field.error, .third-field.error, .forth-field.error  {
+	border-bottom:1px solid #FF0000;
+}
+#contact-loading {
+	color:#FF0000;
+}
+#contact-success {
+	color:#FF0000;
+}
+#contact-failed {
+	color:#FF0000;
+}
