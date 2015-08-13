@@ -196,7 +196,7 @@ p.medium {
 	height: 100%;
 	overflow: hidden;
 	text-transform: uppercase;
-	color: #999;
+	color: #FFF;
 	background: #498bf4;
 }
 
@@ -280,13 +280,7 @@ p.medium {
 }
 
 .ps-content a:last-child {
-	font-size: 14px;
-	font-weight: 700;
-	color: #fff;
-	float: left;
-	border:2px solid #fff;
-	padding:5px 10px;
-	text-indent: 4px;
+
 }
 
 .no-touch .ps-content a:last-child:hover {
@@ -295,12 +289,7 @@ p.medium {
 }
 
 .ps-content a:last-child:before {
-	content: '\53';
-	font-family: 'icon';
-	font-style: normal;
-	font-weight: normal;
-	speak: none;
-	padding-right: 10px;
+
 }
 
 .ps-slidewrapper {
